@@ -71,6 +71,10 @@
   text-align: right;
 }
 
+#pick-criteria td.label select option {
+  width: auto;
+}
+
 #pick-criteria td.operator {
  padding-right: 0.5em;
  text-align: left;
